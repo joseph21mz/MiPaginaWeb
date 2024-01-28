@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dgram": "^1.0.1",
+    "dns": "^0.1.2",
+    "dotenv": "^16.3.1",
+    "mssql": "^10.0.1",
+    "net": "^1.0.2",
+    "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
